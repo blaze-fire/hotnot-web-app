@@ -2,6 +2,7 @@ asgiref==3.5.1
 backports.zoneinfo==0.2.1
 certifi==2021.10.8
 Django==4.0.4
+gunicorn==20.1.0
 joblib==1.1.0
 lightgbm==3.3.2
 numpy==1.22.3
@@ -14,4 +15,5 @@ six==1.16.0
 sklearn==0.0
 sqlparse==0.4.2
 threadpoolctl==3.1.0
+whitenoise==6.1.0
 xgboost==1.6.0
